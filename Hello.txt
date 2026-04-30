@@ -1,3 +1,7 @@
 hello GitHub
 welcome to the universe
+<<<<<<< HEAD
 heelo
+=======
+this is a sample string
+>>>>>>> feature1
