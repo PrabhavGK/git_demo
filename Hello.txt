@@ -1,2 +1,3 @@
 hello GitHub
 welcome to the universe
+this is a sample string
